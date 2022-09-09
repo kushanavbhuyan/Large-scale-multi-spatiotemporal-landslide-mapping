@@ -4,8 +4,5 @@
 
 Contact mail: kushanavb@gmail.com & lorenava996@gmail.com
 
-
+#### Schematic outlook
 ![Conceptial Diagram](Images/CF.png)
-
-#### Area comparison results:
-![AC](Images/HA.png)
