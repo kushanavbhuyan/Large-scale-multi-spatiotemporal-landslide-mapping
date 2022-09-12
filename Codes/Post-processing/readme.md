@@ -8,7 +8,7 @@
 
 
 ##### Area comparison figure: 
-![AC](Images/AC.png)
+![Diagram1](Images/AC.png)
 
 ##### Temporal Subtraction figure: 
-![TS](Images/TS.png)
+![Diagram2](Images/TS.png)
