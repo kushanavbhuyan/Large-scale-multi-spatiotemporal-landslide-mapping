@@ -130,6 +130,10 @@ def unet(opt,input_size, lossfxn):
     model.compile(optimizer=opt, loss=lossfxn, metrics=metrics)
     return model
 
+'''
+Code credits: https://arxiv.org/abs/1810.07842
+	'''
+
 def expend_as(tensor, rep,name):
 	my_repeat = Lambda(lambda x, repnum: K.repeat_elements(x, repnum, axis=3), arguments={'repnum': rep},  name='psi_up'+name)(tensor)
 	return my_repeat
