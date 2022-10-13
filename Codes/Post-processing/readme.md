@@ -8,7 +8,7 @@
 
 
 ##### Area comparison figure: 
-![Diagram1](Images/AC.png)
+![Diagram1](https://github.com/kushanavbhuyan/Large-scale-multi-spatiotemporal-landslide-mapping/blob/main/Images/AC.png)
 
 ##### Temporal Subtraction figure: 
-![Diagram2](Images/TS.png)
+![Diagram2](https://github.com/kushanavbhuyan/Large-scale-multi-spatiotemporal-landslide-mapping/blob/main/Images/TS.png)
