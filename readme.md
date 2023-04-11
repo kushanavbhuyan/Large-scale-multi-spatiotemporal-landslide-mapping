@@ -6,3 +6,5 @@ Contact mail: kushanavb@gmail.com & lorenava996@gmail.com
 
 #### Schematic outlook
 ![Conceptial Diagram](Images/CF.png)
+
+Please cite our work if you use our codes: https://www.nature.com/articles/s41598-022-27352-y
