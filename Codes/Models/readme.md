@@ -1,3 +1,3 @@
-### Contains the model training notebooks for each study area. Reminder that since in the paper we started with Nepal, only the other three notebooks contain the transfer learning aspect.
+### Contains a sample model training notebook with transfer learning module. 
 
-Update: Sorry for the inconvenience as we found some bugs in the notebooks that we need to address before publicly putting them online. 
+Please remember that you'll need a pre-trained model to initiate the transfer learning approach. If you do not have one then, you can train a model on a preliminary region first, and then use the weights from that region to employ on another region. If you have any questions, feel free to reach out.
