@@ -1,3 +1,5 @@
 ## This folder contains the codes for performing transfer learning and post-processing to obtain the accurate multi-temporal landslide inventories.
 
 #### Codes were written/compiled by Kushanav Bhuyan, [Lorenzo Nava](https://github.com/lorenzonava96), and [Ashok Dahal](https://github.com/ashokdahal).
+
+#### Please cite our work if you use our codes: https://www.nature.com/articles/s41598-022-27352-y
